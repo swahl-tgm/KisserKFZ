@@ -20,11 +20,11 @@ Samer:
 - Home
 - Bosch-Service
 
-Filip
+Filip:
 - News/Aktionen
 - Mitarbeiter
 
-Daniel
+Daniel:
 - Bergen & Abschleppen
 - Kontakt
 
